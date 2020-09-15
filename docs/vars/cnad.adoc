@@ -1,4 +1,0 @@
-:ProjectName: Container{nbsp}Native{nbsp}Application{nbsp}Development
-:ProjectShortName: CNAD
-:ProjectNameID: cnad
-:ProjectVersion: 1.0
